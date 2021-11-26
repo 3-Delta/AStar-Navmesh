@@ -7,5 +7,5 @@
 </p>
 
 <p align="center" >
-<img src="https://github.com/3-Delta/AStar-Navmesh/blob/master/Gifs/dynamicNavmesh.gif" alt="navmesh" title="navmesh view">
+<img src="https://github.com/3-Delta/AStar-Navmesh/blob/master/Gifs/dynamicNavmesh.gif" alt="dynamicNavmesh" title="dynamicNavmesh view">
 </p>
