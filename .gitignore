@@ -1,0 +1,11 @@
+/.idea/.idea.AStar-Navmesh/.idea/.gitignore
+/.idea/.idea.AStar-Navmesh/.idea/encodings.xml
+/.idea/.idea.AStar-Navmesh/.idea/indexLayout.xml
+/.idea/.idea.AStar-Navmesh/.idea/vcs.xml
+/AStar-Navmesh.sln
+/Temp
+/.idea
+/Library
+/Logs
+/obj
+/*.csproj
